@@ -20,7 +20,7 @@ Collaborative filtering is the method of making automatic filtering about the ch
 
 Content-based filtering, recommends items based on a comparison between the content of the items and a user profile. The content of each item is represented as a set of different terms, normally the words that arise frequently in a document. The user profile is represented with the same terms and built up by analyzing the content of items which have been seen by the user.
 
-###### 3. Hybrid Recommendation Systems.
+###### 3. Hybrid Recommendation Systems:
 
 Hybrid recommender systems is been created by combining collaborative filtering and content-based filtering. It gives more accurate results in some cases.
 
