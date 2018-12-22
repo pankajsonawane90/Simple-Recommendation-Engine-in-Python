@@ -12,15 +12,15 @@ E.g. Item X and Y are bought by two users from online store. After this purchase
 
 There are basically three important types of recommendation systems:
 
-#####1. Collaborative filtering: 
+######1. Collaborative filtering: 
 
 Collaborative filtering is the method of making automatic filtering about the choices of a particular user by collecting preferences or taste information from many other users (collaborating).
 
-#####2. Content-Based Filtering:
+######2. Content-Based Filtering:
 
 Content-based filtering, recommends items based on a comparison between the content of the items and a user profile. The content of each item is represented as a set of different terms, normally the words that arise frequently in a document. The user profile is represented with the same terms and built up by analyzing the content of items which have been seen by the user.
 
-#####3. Hybrid Recommendation Systems.
+######3. Hybrid Recommendation Systems.
 
 Hybrid recommender systems is been created by combining collaborative filtering and content-based filtering. It gives more accurate results in some cases.
 
